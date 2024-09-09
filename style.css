@@ -27,6 +27,7 @@
 }
 .categories{
   align-self: self-start;
+  overflow: hidden;
 }
 .categories ul {
   list-style: none;
